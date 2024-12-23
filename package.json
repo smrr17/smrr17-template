@@ -1,0 +1,20 @@
+{
+  "name": "smrr17",
+  "version": "1.0.3",
+  "description": "A custom React Native template",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "author": "Shahmeer",
+  "license": "ISC",
+  "keywords": [
+    "react-native",
+    "template",
+    "smrr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smrr17/testApp.git"
+  }
+}
